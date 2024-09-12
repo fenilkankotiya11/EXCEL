@@ -34,12 +34,12 @@ To create a comprehensive sales and financial report analyzing AtliQ Hardware’
 ✅️Profit and Loss by Fiscal Year/Month: Delivered detailed fiscal year and monthly breakdowns of profit and loss trends.<br>
 ✅️Profit and Loss by Markets: Identified both profitable and underperforming market segments.<br>
 
-🎯Key Metrics Covered:
-📍Calendar Year & Fiscal Year
-📍Net Sales
-📍Cost of Goods Sold (COGS)
-📍Gross Margin
-📍Gross Margin %
+🎯Key Metrics Covered:<br>
+📍Calendar Year & Fiscal Year<br>
+📍Net Sales<br>
+📍Cost of Goods Sold (COGS)<br>
+📍Gross Margin<br>
+📍Gross Margin %<br>
 
 This project has deepened my expertise in sales and financial analytics, and I’m eager to apply these insights to drive business success. Looking forward to continuing my journey in data analysis!
 
