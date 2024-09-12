@@ -9,9 +9,11 @@ To create a comprehensive sales and financial report analyzing AtliQ Hardware’
 
 
 
-🎯Skills Acquired:<br>
+🎯Skills Acquired:
+<br>
 ✅️ETL (Extract, Transform, Load): Efficient data gathering, cleaning, and structuring from multiple sources.<br>
-✅️Power Query: Automated data cleaning, merging, and transformation processes.<br>
+✅️Power Query: Automated data cleaning, merging, and transformation processes.
+<br>
 ✅️Data Modeling: Created efficient data models to represent relationships between different data entities.<br>
 ✅️DAX (Data Analysis Expressions): Developed advanced calculations and aggregations for precise reporting.<br>
 ✅️Power Pivot:  Managed large datasets and built robust data models for deep analysis.<br>
