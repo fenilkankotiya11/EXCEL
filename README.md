@@ -9,28 +9,28 @@ To create a comprehensive sales and financial report analyzing AtliQ Hardware’
 
 
 
-🎯Skills Acquired:
-✅️ETL (Extract, Transform, Load): Efficient data gathering, cleaning, and structuring from multiple sources.
-✅️Power Query: Automated data cleaning, merging, and transformation processes.
-✅️Data Modeling: Created efficient data models to represent relationships between different data entities.
-✅️DAX (Data Analysis Expressions): Developed advanced calculations and aggregations for precise reporting.
-✅️Power Pivot:  Managed large datasets and built robust data models for deep analysis.
-✅️Pivot Table: Summarized, analyzed, and dynamically visualized key data points.
-✅️Business Reporting: Designed reports that deliver valuable insights and support decision-making.
+🎯Skills Acquired:<br>
+✅️ETL (Extract, Transform, Load): Efficient data gathering, cleaning, and structuring from multiple sources.<br>
+✅️Power Query: Automated data cleaning, merging, and transformation processes.<br>
+✅️Data Modeling: Created efficient data models to represent relationships between different data entities.<br>
+✅️DAX (Data Analysis Expressions): Developed advanced calculations and aggregations for precise reporting.<br>
+✅️Power Pivot:  Managed large datasets and built robust data models for deep analysis.<br>
+✅️Pivot Table: Summarized, analyzed, and dynamically visualized key data points.<br>
+✅️Business Reporting: Designed reports that deliver valuable insights and support decision-making.<br>
 
-🎯Project Highlights:
-📍Sales:
-✅️Customer Net Sales Performance Report: Analyzed net sales across various customers.
-✅️Division Level Report:  Provided insights into division-specific performance.
-✅️Indian Customer Performance Report: Focused on analyzing the performance of Indian customers.
-✅️Market Performance vs. Target: Conducted comparative analysis between actual market performance and set targets.
-✅️New Product 2021:  Analyzed the performance of new products launched in 2021.
+🎯Project Highlights:<br>
+📍Sales:<br>
+✅️Customer Net Sales Performance Report: Analyzed net sales across various customers.<br>
+✅️Division Level Report:  Provided insights into division-specific performance.<br>
+✅️Indian Customer Performance Report: Focused on analyzing the performance of Indian customers.<br>
+✅️Market Performance vs. Target: Conducted comparative analysis between actual market performance and set targets.<br>
+✅️New Product 2021:  Analyzed the performance of new products launched in 2021.<br>
 
-📍Finance:
-✅️Customer Profit and Loss by Fiscal Year:  Evaluated customer profitability over different fiscal years.
-✅️Gross Margin % by Quarters (Sub-Zone): Examined gross margin percentage by quarters across different sub-zones.
-✅️Profit and Loss by Fiscal Year/Month: Delivered detailed fiscal year and monthly breakdowns of profit and loss trends.
-✅️Profit and Loss by Markets: Identified both profitable and underperforming market segments.
+📍Finance:<br>
+✅️Customer Profit and Loss by Fiscal Year:  Evaluated customer profitability over different fiscal years.<br>
+✅️Gross Margin % by Quarters (Sub-Zone): Examined gross margin percentage by quarters across different sub-zones.<br>
+✅️Profit and Loss by Fiscal Year/Month: Delivered detailed fiscal year and monthly breakdowns of profit and loss trends.<br>
+✅️Profit and Loss by Markets: Identified both profitable and underperforming market segments.<br>
 
 🎯Key Metrics Covered:
 📍Calendar Year & Fiscal Year
